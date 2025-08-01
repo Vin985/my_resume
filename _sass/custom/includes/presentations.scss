@@ -1,0 +1,37 @@
+.presentations {
+    .title {
+        @include header;
+    }
+    .subtitle {
+        @include sub-header;
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .presentations-items {
+        .presentations-item {
+            margin-bottom: 5px;
+            font-size: 14px;
+            .presentations-title {
+                @include sub-header;
+                text-decoration: none;
+                font-weight: bold;
+                color: var(--fg-color-dark);
+                font-size: 14px;
+            }
+            .authors {
+                @include body-text;
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+            .meeting {
+                @include body-text; 
+            }
+            .conference {
+                @include body-text; 
+                color: var(--fg-color-title-sm);
+                font-weight: 100;
+            }
+        }
+    }
+}

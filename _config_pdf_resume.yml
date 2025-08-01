@@ -1,0 +1,42 @@
+print_title: Sylvain Christin - Resume
+print_subtitle: Quantitative Biologist
+
+
+gems:
+  - jekyll-pdf
+
+output: pdf
+product: mydoc
+description:  A beautiful template for your CV.
+url: https://vin985.github.io/my_resume/
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
+
+lang: "en"
+css_theme: "custom"
+
+use_months: True
+use_short_months: True
+show_degree_title: True
+
+exclude_jobs: ["paniers", "Vietnam"]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page_print"
+      comments: true
+      search: true

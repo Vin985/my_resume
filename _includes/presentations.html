@@ -1,0 +1,33 @@
+{%- assign data = site.data[site.lang]-%}
+{% assign presentations = data.presentations %}
+{% if presentations %}
+<section class="presentations">
+    <h2 class="title">{{presentations.title}}</h2>
+    {% unless site.exclude_presentations contains "oral" %}
+    <h3 class="subtitle">{{presentations.oral_title}}</h3>
+    <div class="presentations-items">
+        {% for oral_item in presentations.oral %}
+        <div class="presentations-item">
+            <span class="presentations-title">{{oral_item.title}}</span> -
+            <span class="authors">{{oral_item.authors}}</span> -
+            <span class="meeting">{{oral_item.date}} - {{oral_item.meeting}} - {{oral_item.location.city}},
+                {{oral_item.location.province}}, {{oral_item.location.country}} </span>
+        </div>
+        {%endfor%}
+    </div>
+    {%endunless%}
+    {% unless site.exclude_presentations contains "poster" %}
+    <h3 class="subtitle">{{presentations.poster_title}}</h3>
+    <div class="presentations-items">
+        {% for poster_item in presentations.poster %}
+        <div class="presentations-item">
+            <span class="presentations-title">{{poster_item.title}}</span> -
+            <span class="authors">{{poster_item.authors}}</span> -
+            <span class="meeting">{{poster_item.date}} - {{poster_item.meeting}} - {{poster_item.location.city}},
+                {{poster_item.location.province}}, {{poster_item.location.country}} </span>
+        </div>
+        {%endfor%}
+    </div>
+    {%endunless%}
+</section>
+{% endif %}

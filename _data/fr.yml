@@ -157,8 +157,10 @@ profile:
   items: [
     "G&eacute;rer, analyser et interpr&eacute;ter des bases de donn&eacute;es scientifiques vari&eacute;es",
     "Cr&eacute;er et utiliser des mod&egrave;les d'intelligence artificielle bas&eacute;s sur de l'apprentissage profond",
+    "G&eacute;rer des bases de donn&eacute;es &agrave; l'aide de MS Access, SQL, Oracle",
+    "Executer des analyses spatio-temporelles et cr&eacute;ation de cartes &agrave; l'aide de R, QGIS et ArcGis Pro",
     "Double dipl&ocirc;me en Biologie et en Informatique",
-    "Bilingue fran&ccedil;ais/anglais",
+    "Bilingue fran&ccedil;ais/anglais (CCC/CCC)",
     "R&eacute;diger et pr&eacute;senter des rapports scientifiques et vulgaris&eacute;s",
     #"Mettre en place et utiliser des protocoles de collectes de donn&eacute;es et d'&eacute;chantillons",
     #"Capturer, manipuler et baguer des oiseaux marins (fous de bassan et eiders &agrave; duvet)",
@@ -203,7 +205,14 @@ job_experience:
       province: Nouveau-Brunswick
       country: Canada
     details: ["Participation &agrave; une &eacute;tude d'impact r&eacute;gionale pour le d&eacute;veloppement &eacute;olien en mer dans la r&eacute;gion Atlantique",
-              "Analyse de jeux de donn&eacute;s vari&eacute;s (donn&eacute;s de mouvement, inventaires, suivis etc.)"]
+              "Analyse de jeux de donn&eacute;s vari&eacute;s (donn&eacute;s de mouvement, inventaires, suivis etc.)",
+              "Creation d'une base de donn&eacute;es de donn&eacute;es de suive &agrave; l'aide de MS Access"]
+    start:
+      month: 6
+      year: 2023
+    end:
+      month: 
+      year: Present
   - role: "Auxiliaire d'enseignement"
     id: "TA_biometry"
     tags: ["teaching", "biology", "statistics"]
@@ -211,7 +220,7 @@ job_experience:
       month: 1
       year: 2023
     end:
-      month: 4
+      month: 4 
       year: 2023
     location:
       name: "Universit&eacute; de Moncton"
@@ -426,6 +435,16 @@ job_experience:
 publications:
   title: Publications
   items:
+    - title: "ECOGEN: Bird sounds generation using deep learning"
+      authors: Guei, A-C., Christin, S., Lecomte, N. & Hervet, &Eacute;.
+      journal:  Methods in Ecology and Evolution
+      date: 2024
+      DOI: "https://doi.org/10.1111/2041-210X.14239"
+    - title: "Taking the Pulse of Changing Phenologies and Biodiversity: The Acoustic Way"
+      authors: Christin, S. & Lecomte, N.
+      journal: The Bulletin of the Ecological Society of America
+      date: 2023
+      DOI: https://doi.org/10.1111/10.1002/bes2.2085"
     - title: "ArcticBirdSounds: An open-access, multiyear, and detailed annotated dataset of bird songs and calls"
       authors: Christin, S., Chicoine, C., O'Neill Sanger, T., Guigueno, M. F., Hansen, J., Lanctot, R. B., MacNearney, D., Rausch, J., Saalfeld, S. T., Schmidt, N. M., Smith, P. A., Woodard, P. F., Hervet, &Eacute;., & Lecomte, N.
       journal: Ecology
@@ -459,37 +478,151 @@ publications:
 
 presentations:
   title: Pr&eacute;sentations
-  oral.title: Pr&eacute;sentations orales
-  posters.title: Pr&eacute;sentations par affiche
-  oral:
-    - title: Studying the phenology of circumpolar birds with acoustic monitoring
-      type: poster
+  oral_title: Pr&eacute;sentations orales
+  poster_title: Pr&eacute;sentations par affiche
+  poster:
+    - title: "&Eacute;tude de la ph&eacute;nologie des oiseaux Arctiques &agrave; l’aide de suivi acoustique &agrave; large &eacute;chelle"
       authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
-      date: 12/2022
+      date: 2023
+      meeting: Colloque du Centre d’&Eacute;tudes Nordiques
+      location:
+        city: Rimouski
+        country: Canada
+        province: Qu&eacute;bec
+    - title: Studying the phenology of circumpolar birds with acoustic monitoring
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2022
+      meeting: ArcticNet Annual Scientific Meeting
       location:
         city: Toronto
         country: Canada
         province: Ontario
-    - title: Studying bird phenology with passive acoustic monitoring and deep learning
-      type: oral
+    - title: "&Eacute;tude de la ph&eacute;nologie des oiseaux arctiques: une approche bioacoustique"
       authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
-      date: 10/2022
+      date: 2018
+      meeting: Colloque du Centre d’&Eacute;tudes Nordiques
       location:
-        city: Fredericton
+        city: Sherbrooke
         country: Canada
-        province: Nouveau Brunswick
+        province: Qu&eacute;bec
+    - title: Optimisation de donn&eacute;es satellitaires Argos r&eacute;colt&eacute;es en milieu terrestre polaire
+      authors: Christin, S., St-Laurent, M.-H. & Berteaux, D.
+      date: 2022
+      meeting: 81e congr&egrave;s de l’ACFAS, colloque 651 – colloque du Centre d’&Eacute;tudes Nordiques
+      location:
+        city: Qu&eacute;bec
+        country: Canada
+        province: Qu&eacute;bec
+
+  oral:
+    - title: "&Eacute;tude de la ph&eacute;nologie des oiseaux Arctiques &agrave; l’aide de suivi acoustique &agrave; large &eacute;chelle"
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2023
+      meeting: 33e Colloque des Jeunes Chercheuses et Chercheurs
+      location:
+        city: Moncton
+        country: Canada
+        province: New Brunswick
     - title: Studying bird phenology with passive acoustic monitoring and deep learning
       type: oral
       authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
-      date: 08/2022
+      date: 2022
+      meeting: Annual meeting of the Ecological Society of America - Canadian Society for Ecology and Evolution
       location:
         city: Montr&eacute;al
         country: Canada
         province: Qu&eacute;bec
-      conference:
+    - title: S&eacute;r&eacute;nades Arctiques
+      authors: Christin, S.
+      date: 2021
+      meeting: Ma th&egrave;se en 180 secondes - Finale R&eacute;gionale
+      location:
+        city: Moncton
+        country: Canada
+        province: New Brunswick
+    - title: Vers l’automatisation &agrave; large &eacute;chelle du suivi ph&eacute;nologique des oiseaux
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2021
+      meeting: 31e Colloque des Jeunes Chercheuses et Chercheurs
+      location:
+        city: Moncton
+        country: Canada
+        province: New Brunswick
+    - title: Listening to the clocks of circumpolar birds using autonomous recorders and deep learning
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2019
+      meeting: ArcticNet Annual Scientific Meeting
+      location:
+        city: Halifax
+        country: Canada
+        province: Nova Scotia
+    - title: "Large scale monitoring of avian phenology: the bioacoustic way"
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2018
+      meeting: ArcticNet Annual Scientific Meeting
+      location:
+        city: Ottawa
+        country: Canada
+        province: Ontario
+    - title: "Large scale monitoring of avian phenology: the bioacoustic way"
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2018
+      meeting: 43e Congr&egrave;s de la SQEBC
+      location:
+        city: Trois-Rivi&egrave;res
+        country: Canada
+        province: Qu&eacute;bec
+    - title: "&Eacute;tude de la ph&eacute;nologie des oiseaux arctiques: une approche bioacoustique"
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2018
+      meeting: 29e Colloque des Jeunes Chercheuses et Chercheurs
+      location:
+        city: Moncton
+        country: Canada
+        province: New Brunswick
+    - title: "Impact of climatic perturbations on the phenology of arctic birds: The bioacoustic way"
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2017
+      meeting: ArcticChange
+      location:
+        city: Qu&eacute;bec
+        country: Canada
+        province: Qu&eacute;bec
+    - title: Are arctic melodies getting warmer too?
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2017
+      meeting: ArcticChange - Elevator pitch
+      location:
+        city: Qu&eacute;bec
+        country: Canada
+        province: Qu&eacute;bec
+    - title: "Renard, y-es-tu?"
+      authors: Christin, S., Hervet, &Eacute;., & Lecomte, N.
+      date: 2013
+      meeting: Colloque de vulgarisation scientifique La Nature dans tous ses &Eacute;tats
+      location:
+        city: Rimouski
+        country: Canada
+        province: Qu&eacute;bec
+    - title: "Optimisation de donn&eacute;es satellitaires Argos r&eacute;colt&eacute;es en milieu terrestre polaire - Discours Express"
+      authors: Christin, S., St-Laurent, M.-H. & Berteaux, D.
+      date: 2013
+      meeting: "81e congr&egrave;s de l’ACFAS, colloque 651 – colloque du Centre d’&Eacute;tudes Nordiques"
+      location:
+        city: Qu&eacute;bec
+        country: Canada
+        province: Qu&eacute;bec
+    - title: L’histoire sans pin
+      authors: Christin, S., Cotnoir, M & Arseneault, D.
+      date: 2012
+      meeting: Colloque de vulgarisation scientifique La Nature dans tous ses &Eacute;tats
+      location:
+        city: Rimouski
+        country: Canada
+        province: Qu&eacute;bec
 
 awards:
-  title: "Scholarships"
+  title: "Bourses et prix"
   items:
     - name: "Bourse d’&eacute;tudes sup&eacute;rieures du Canada Alexander-Graham-Bell - doctorat"
       type: scholarship
@@ -551,7 +684,7 @@ awards:
       location: Moncton
     - name: "2ème prix catégorie Sciences naturelles, génie et santé, 3e cycle"
       type: award
-      provider: 31ème Colloque des Jeunes Chercheuses et Chercheurs 
+      provider: 33ème Colloque des Jeunes Chercheuses et Chercheurs 
       value: 300
       date: 2023
       location: Moncton
@@ -571,18 +704,28 @@ awards:
 references:
   title: "R&eacute;f&eacute;rences"
   persons:
-    - name: Amelia Cox
-      job: Biologiste quantitatif
-      location: Environnement et Changement climatique Canada
-      email: amelia.cox@ec.gc.ca
-      phone: (819) 938-5613
-    - name: Fran&ccedil;ois Bolduc
-      job: "Chef, Unit&eacute; des milieux marins et aquatiques r&eacute;gion du Qu&eacute;bec"
-      location: Environnement et Changement climatique Canada
-      email: francois.bolduc@canada.ca
-      phone: (418) 640-2910
     - name: Nicolas Lecomte
       job: Professeur Agr&eacute;g&eacute;
       location: Universit&eacute; de Moncton
       email: nicolas.lecomte@umoncton.ca
       phone: (506) 858-4291
+    - name: Patrice Godin
+      job: Coordinateur Régional NB
+      location: Environnement et Changement climatique Canada, Direction générale des sciences et de la technologie
+      email: patrice.godin@canada.ca
+      phone: (506) 850-1620
+    # - name: Christine Gilroy
+    #   job: Coordonnatrice, Evaluations environnementales
+    #   location: Environnement et Changement climatique Canada
+    #   email: christine.gilroy@ec.gc.ca
+    #   phone: (506) 540-1516  
+    # - name: Paul Knaga
+    #   job: Biologiste de la faune 
+    #   location: Environnement et Changement climatique Canada
+    #   email: paul.knaga@ec.gc.ca
+    #   phone: (902) 407-8457
+    # - name: Joshua Mailhiot
+    #   job: Chef des Affaires R&egrave;glementaires, R&eacute;gion de l'Atlantique
+    #   location: Environnement et Changement climatique Canada
+    #   email: joshua.mailhiot@ec.gc.ca
+    #   phone: (902) 407-7790
