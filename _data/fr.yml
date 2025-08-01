@@ -18,10 +18,10 @@ languages:
   title: Langues
   idioms:
     - name: Fran&ccedil;ais
-      level: courant (CCC)
+      level: courant - CCC
       code: fr
     - name: Anglais
-      level: courant (CCC)
+      level: courant - CCC
       code: gb
     - name: Allemand
       level: scolaire

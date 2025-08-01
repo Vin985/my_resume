@@ -18,10 +18,10 @@ languages:
   title: Languages
   idioms:
     - name: French
-      level: native (CCC)
+      level: native - CCC
       code: fr
     - name: English
-      level: fluent (CCC)
+      level: fluent - CCC
       code: gb
     - name: German
       level: novice
