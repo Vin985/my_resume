@@ -18,10 +18,10 @@ languages:
   title: Langues
   idioms:
     - name: Fran&ccedil;ais
-      level: courant
+      level: courant (CCC)
       code: fr
     - name: Anglais
-      level: courant
+      level: courant (CCC)
       code: gb
     - name: Allemand
       level: scolaire
@@ -171,6 +171,23 @@ profile:
 job_experience:
   title: Exp&eacute;riences professionnelles pertinentes
   jobs:
+  - role: "Agent des sciences physiques"
+    id: "STB-PCEC"
+    tags: ["PCEC", "STB"]
+    start:
+      month: 10
+      year: 2024
+    end:
+      month: 
+      year: Present
+    location:
+      name: "Direction générale des sciences et de la technologie"
+      city: Moncton
+      province: Nouveau-Brunswick
+      country: Canada
+    details: ["Maintenance, &eacute;volution et gestion de l'application web .NET maison permettant la gestion des donn&eacute;es du groupe"
+    "Membre du groupe de gestion de donn&eacute;es du programme national en charge entre autres de la mise en place d'un nouveau syst&egrave;me de gestion de donn&eacute;es commercial"
+    "Assiste le groupe r&eacute;gional avec leurs besoins en cartographie et gestion de donn&eacute;es"]
   - role: "Biologiste sp&eacute;cialiste en analyse de donn&eacute;es"
     id: "CWS-OSW"
     tags: ["movement", "CWS"]
@@ -178,8 +195,8 @@ job_experience:
       month: 6
       year: 2023
     end:
-      month: 
-      year: Present
+      month: 10
+      year: 2024
     location:
       name: "Service Canadien de la Faune"
       city: Sackville

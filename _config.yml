@@ -14,11 +14,11 @@ plugins:
 exclude:
   - docker-compose.yml
 
-lang: "en"
+lang: "fr"
 css_theme: "custom"
 
 use_months: True
 use_short_months: True
 show_degree_title: True
 
-exclude_jobs: ["paniers", "Vietnam"]
+# exclude_jobs: ["paniers", "Vietnam"]
