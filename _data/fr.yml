@@ -187,7 +187,8 @@ job_experience:
       city: Moncton
       province: Nouveau-Brunswick
       country: Canada
-    details: ["Maintenance, &eacute;volution et gestion de l'application web .NET maison permettant la gestion des donn&eacute;es du groupe",
+    details: ["Participation au Programme de Classification des Eaux Coquilli&egrave;res",
+    "Maintenance, &eacute;volution et gestion de l'application web .NET maison permettant la gestion des donn&eacute;es du groupe",
     "Membre du groupe de gestion de donn&eacute;es du programme national en charge entre autres de la mise en place d'un nouveau syst&egrave;me de gestion de donn&eacute;es commercial",
     "Assiste le groupe r&eacute;gional avec leurs besoins en cartographie et gestion de donn&eacute;es"]
   - role: "Biologiste sp&eacute;cialiste en analyse de donn&eacute;es"

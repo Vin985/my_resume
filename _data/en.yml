@@ -185,7 +185,8 @@ job_experience:
       city: Moncton
       province: Nouveau-Brunswick
       country: Canada
-    details: ["Manage, maintain and upgrade the in-house .NET web application used by the regional group for data management",
+    details: ["Take part in the Shellfish Waters Classification Program",
+    "Manage, maintain and upgrade the in-house .NET web application used by the regional group for data management",
     "Member of the Data Management Working Group in charge, among other tasks, to set in place a commercial data management system",
     "Assist the regional group with mapping and data management needs"]
   - role: "Wildlife Biologist - Data analyst"
