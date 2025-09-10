@@ -14,7 +14,7 @@ plugins:
 exclude:
   - docker-compose.yml
 
-lang: "fr"
+lang: "en"
 css_theme: "custom"
 
 use_months: True
