@@ -76,8 +76,8 @@ education:
         year: 2017
         month: 9
       end:
-        year: Present
-        month: 
+        year: 2025
+        month: 12
       location:
         name: Universit&eacute; de Moncton
         city: Moncton
@@ -155,14 +155,13 @@ profile:
   title: Skills
   items: [
     "Manage, analyze and interpret varied scientific datasets",
-    "Create and use artificial intelligence models based on deep learning",
-    "Spatio-temporal analysis and mapping with R, QGIS and ArcGIS Pro",
     "Data management using databases such as MS Access, SQL, Oracle",
+    "Develop in various programming languages (R, Python, Java, PHP, HTML, C, C++, HTML, Perl)",
+    "Familiar with bird survey and monitoring techniques including point count, ARUs, tracking devices and aerial surveys",
     "Double diplomas in Biology (PhD) and Computer Science (Engineering degree)",
     "Bilingual French/English (CCC/CCC)",
-    "Write and present scientific reports",
+    # "Write and present scientific reports",
     # "Create and set up data collection protocols",
-    "Develop in various programming languages (R, Python, Java, PHP, HTML, C, C++, HTML, Perl)",
     "Able to quickly adapt and learn",
   ]
     
