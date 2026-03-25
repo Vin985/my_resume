@@ -719,11 +719,11 @@ references:
       location: Environnement et Changement climatique Canada
       email: patrice.godin@canada.ca
       phone: (506) 850-1620
-    # - name: Christine Gilroy
-    #   job: Coordonnatrice, Evaluations environnementales
-    #   location: Environnement et Changement climatique Canada
-    #   email: christine.gilroy@ec.gc.ca
-    #   phone: (506) 540-1516  
+    - name: Christine Gilroy
+      job: Coordonnatrice, Evaluations environnementales
+      location: Environnement et Changement climatique Canada
+      email: christine.gilroy@ec.gc.ca
+      phone: (506) 540-1516  
     # - name: Paul Knaga
     #   job: Biologiste de la faune 
     #   location: Environnement et Changement climatique Canada
