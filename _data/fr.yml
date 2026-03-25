@@ -76,8 +76,8 @@ education:
         year: 2017
         month: 9
       end:
-        year: Pr&eacute;sent
-        month: 
+        year: 2025
+        month: 12
       location:
         name: Universit&eacute; de Moncton
         city: Moncton
@@ -156,16 +156,31 @@ profile:
   title: Comp&eacute;tences
   items: [
     "G&eacute;rer, analyser et interpr&eacute;ter des bases de donn&eacute;es scientifiques vari&eacute;es",
-    "Cr&eacute;er et utiliser des mod&egrave;les d'intelligence artificielle bas&eacute;s sur de l'apprentissage profond",
+    #"Cr&eacute;er et utiliser des mod&egrave;les d'intelligence artificielle bas&eacute;s sur de l'apprentissage profond",
     "G&eacute;rer des bases de donn&eacute;es &agrave; l'aide de MS Access, SQL, Oracle",
-    "Executer des analyses spatio-temporelles et cr&eacute;ation de cartes &agrave; l'aide de R, QGIS et ArcGis Pro",
+    "D&eacute;velopper des logiciels dans divers langages de programmation (R, Python, Java, PHP, HTML, C, C++, HTML, Perl, Caml)",
+       "Familier avec les m&eacute;thodes de suivi de populations aviaires, incluant les enregistreurs sonores autonomes, les d&eacute;comptes de colonies et survols a&eacute;riens"
+    #"Executer des analyses spatio-temporelles et cr&eacute;ation de cartes &agrave; l'aide de R, QGIS et ArcGis Pro",
     "Double dipl&ocirc;me en Biologie et en Informatique",
-    "Bilingue fran&ccedil;ais/anglais (CCC/CCC)",
-    "R&eacute;diger et pr&eacute;senter des rapports scientifiques et vulgaris&eacute;s",
+    "Bonne connaissance des m&eacute;thodologies de d&eacute;veloppement de logiciels",
+    "Bilingue fran&ccedil;ais/anglais", # (CCC/CCC)",
+    #"R&eacute;diger et pr&eacute;senter des rapports scientifiques et vulgaris&eacute;s",
     #"Mettre en place et utiliser des protocoles de collectes de donn&eacute;es et d'&eacute;chantillons",
     #"Capturer, manipuler et baguer des oiseaux marins (fous de bassan et eiders &agrave; duvet)",
-    "D&eacute;velopper des logiciels dans divers langages de programmation (R, Python, Java, PHP, HTML, C, C++, HTML, Perl, Caml)",
+    
     "Bonnes capacit&eacute;s d'adaptation, de planification et apprentissage rapide",
+    
+    
+    
+    "Manage, analyze and interpret varied scientific datasets",
+    "Data management using databases such as MS Access, SQL, Oracle",
+    "Develop in various programming languages (R, Python, Java, PHP, HTML, C, C++, HTML, Perl)",
+    "Familiar with bird survey and monitoring techniques including point count, ARUs, tracking devices and aerial surveys",
+    "Double diplomas in Biology (PhD) and Computer Science (Engineering degree)",
+    "Bilingual French/English (CCC/CCC)",
+    # "Write and present scientific reports",
+    # "Create and set up data collection protocols",
+    "Able to quickly adapt and learn",
   ]
     
 
@@ -181,9 +196,9 @@ job_experience:
       year: 2024
     end:
       month: 
-      year: Present
+      year: Pr&eacute;sent
     location:
-      name: "Direction générale des sciences et de la technologie"
+      name: "Direction g&eacute;n&eacute;rale des sciences et de la technologie"
       city: Moncton
       province: Nouveau-Brunswick
       country: Canada
@@ -243,7 +258,7 @@ job_experience:
       city: Gatineau
       province: Qu&eacute;bec
       country: Canada 
-    details: ["Creation de la version fran&ccedil;aise et mise &agrave; jour d'un rapport R Markdown d&eacute;crivant le statut des populations d’oiseaux migrateurs considérés comme gibier au Canada"]
+    details: ["Creation de la version fran&ccedil;aise et mise &agrave; jour d'un rapport R Markdown d&eacute;crivant le statut des populations d’oiseaux migrateurs consid&eacute;r&eacute;s comme gibier au Canada"]
   - role: "Pr&eacute;sentateur d'ateliers de formation &agrave; R"
     id: "R_CSBQ"
     tags: ["biology", "statistics", "teaching", "R"]
@@ -630,9 +645,9 @@ awards:
       value: 35000
       total_value: 70000
       duration: 2 ans
-      provider: Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG)
+      provider: Conseil de recherches en sciences naturelles et en g&eacute;nie du Canada (CRSNG)
       date: 2019
-    - name: "Bourse d’études supérieures du Nouveau-Brunswick"
+    - name: "Bourse d’&eacute;tudes sup&eacute;rieures du Nouveau-Brunswick"
       value: 7000
       duration: 2 ans
       total_value: 14000
@@ -644,17 +659,17 @@ awards:
       duration: 2 ans
       total_value: 6000
       type: scholarship
-      provider: "Université de Moncton"
+      provider: "Universit&eacute; de Moncton"
       date: 2019
-    - name: "Bourse d'études supérieures Patrimoine canadien - 3&egrave;me cycle"
+    - name: "Bourse d'&eacute;tudes sup&eacute;rieures Patrimoine canadien - 3&egrave;me cycle"
       value: 10000
       type: scholarship
       provider: "Ministère du Patrimoine Canadien"
       date: 2017
-    - name: "Bourse d’études supérieures du Nouveau-Brunswick, STGM et innovation sociale"
+    - name: "Bourse d’&eacute;tudes sup&eacute;rieures du Nouveau-Brunswick, STGM et innovation sociale"
       value: 7000
       type: scholarship
-      provider: "Gouvernement du Nouveau-Brunswick & Université de Moncton"
+      provider: "Gouvernement du Nouveau-Brunswick & Universit&eacute; de Moncton"
       date: 2017
     - name: "Bourse de recherche interdisciplinaire à la maîtrise"
       type: scholarship
@@ -663,41 +678,41 @@ awards:
       date: 2012
     - name: "Prix d'excellence (Publication)"
       type: award
-      provider: Centre d'Études Nordiques
+      provider: Centre d'&eacute;tudes Nordiques
       value: 150
       date: 2016
     - name: "2ème prix de communication orale"
       type: award
-      provider: 59e conférence de l'Atlantic Society of Fish and Wildlife Biologists
+      provider: 59e conf&eacute;rence de l'Atlantic Society of Fish and Wildlife Biologists
       value: 100
       date: 2022
       location: Fredericton
-    - name: "2ème prix - Concours Régional Ma thèse en 180 secondes"
+    - name: "2ème prix - Concours R&eacute;gional Ma thèse en 180 secondes"
       type: award
       provider: ACFAS
       value: 300
       date: 2021
-    - name: "2ème prix catégorie Sciences naturelles, génie et santé, 3e cycle"
+    - name: "2ème prix cat&eacute;gorie Sciences naturelles, g&eacute;nie et sant&eacute;, 3e cycle"
       type: award
       provider: 31ème Colloque des Jeunes Chercheuses et Chercheurs 
       value: 300
       date: 2021
       location: Moncton
-    - name: "2ème prix catégorie Sciences naturelles, génie et santé, 3e cycle"
+    - name: "2ème prix cat&eacute;gorie Sciences naturelles, g&eacute;nie et sant&eacute;, 3e cycle"
       type: award
       provider: 33ème Colloque des Jeunes Chercheuses et Chercheurs 
       value: 300
       date: 2023
       location: Moncton
-    - name: "Prix BORÉAS du meilleur résumé vulgarisé"
+    - name: "Prix BOR&eacute;AS du meilleur r&eacute;sum&eacute; vulgaris&eacute;"
       type: award
-      provider: La Nature Dans Tous Ses États
+      provider: La Nature Dans Tous Ses &eacute;tats
       value: 150
       date: 2012
       location: Rimouski
     - name: "Prix de communication orale"
       type: award
-      provider: La Nature Dans Tous Ses États
+      provider: La Nature Dans Tous Ses &eacute;tats
       value: 250
       date: 2012
 
@@ -711,7 +726,7 @@ references:
       email: nicolas.lecomte@umoncton.ca
       phone: (506) 858-4291
     - name: Patrice Godin
-      job: Coordinateur Régional NB
+      job: Coordinateur R&eacute;gional NB
       location: Environnement et Changement climatique Canada
       email: patrice.godin@canada.ca
       phone: (506) 850-1620
