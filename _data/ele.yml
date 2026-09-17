@@ -1,4 +1,4 @@
-name: Éléonore Christin
+name: "&Eacute;l&eacute;onore Christin"
 support_dark_mode: false
 fork: false
 
@@ -18,10 +18,10 @@ languages:
   title: Langues
   idioms:
     - name: Fran&ccedil;ais
-      level: maternelle
+      level: Langue maternelle
       code: fr
     - name: Anglais
-      level: intermédiaire
+      level: Interm&eacute;diaire
       code: gb
 
 months_long: [
@@ -56,9 +56,6 @@ months_short: [
   "D&eacute;c.",
   ]
 
-titles:
-  scholarships: Bourses
-  awards: Prix
 
 # Education
 education:
