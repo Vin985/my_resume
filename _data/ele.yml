@@ -111,7 +111,7 @@ education:
         city: Moncton
         province: Nouveau-Brunswick
         country: Canada 
-    - degree: Camps d'été de th&eacute;&acirc;tre
+    - degree: Camps d'&eacute;t&eacute; de th&eacute;&acirc;tre
       title: 
       start: 
         year: 2024
@@ -150,9 +150,7 @@ education:
         city: Moncton
         province: Nouveau-Brunswick
         country: Canada 
-   
-      
-   
+
 
 
 # Profile
@@ -161,7 +159,7 @@ education:
 job_experience:
   title: Exp&eacute;riences de scène
   jobs:
-  - role: "Spectacles annuels de l'école St-Henri"
+  - role: "Spectacles annuels de l'&eacute;cole St-Henri"
     start:
       month: 09
       year: 2022
@@ -173,8 +171,8 @@ job_experience:
       city: Moncton
       province: Nouveau-Brunswick
       country: Canada
-    details: ["Participation aux spectacles annuel de l'école",
-    "Participation aux spectacles de la chorale de l'école (représentation additionnelle depuis le printemps 2026)",
+    details: ["Participation aux spectacles annuel de l'&eacute;cole",
+    "Participation aux spectacles de la chorale de l'&eacute;cole (repr&eacute;sentation additionnelle depuis le printemps 2026)",
     ]
   - role: "Concerts Sistema NB"
     id: "CWS-OSW"
@@ -190,8 +188,8 @@ job_experience:
       city: Moncton
       province: Nouveau-Brunswick
       country: Canada
-    details: ["Participation aux concerts réguliers de Sistema NB en tant que violoniste (3 représentations par année)",
-              "Participation spéciale au concert du gala Sistema NB (2026)"]
+    details: ["Participation aux concerts r&eacute;guliers de Sistema NB en tant que violoniste (3 repr&eacute;sentations par ann&eacute;e)",
+              "Participation sp&eacute;ciale au concert du gala Sistema NB (2026)"]
     start:
       month: 6
       year: 2023
@@ -207,8 +205,8 @@ job_experience:
       city: Moncton
       province: Nouveau-Brunswick
       country: Canada 
-    details: ["Numéro de danse contemporaine au Th&eacute;&acirc;tre Capitol"]
- - role: "Spectacle de danse Unity - Dance Creation"
+    details: ["Num&eacute;ro de danse contemporaine au Th&eacute;&acirc;tre Capitol"]
+  - role: "Spectacle de danse Unity - Dance Creation"
     start:
       month: 6
       year: 2023
@@ -217,7 +215,7 @@ job_experience:
       city: Moncton
       province: Nouveau-Brunswick
       country: Canada 
-    details: ["Numéro de danse Hip-hop au Th&eacute;&acirc;tre Capitol"]
+    details: ["Num&eacute;ro de danse Hip-hop au Th&eacute;&acirc;tre Capitol"]
   
 
     
