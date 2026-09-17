@@ -21,7 +21,7 @@ languages:
       level: Langue maternelle
       code: fr
     - name: Anglais
-      level: Interm&eacute;diaire
+      level: Avanc&eacute;
       code: gb
 
 months_long: [
@@ -193,7 +193,7 @@ job_experience:
       province: Nouveau-Brunswick
       country: Canada
     details: ["Participation aux spectacles annuel de l'&eacute;cole",
-    "Participation aux spectacles de la chorale de l'&eacute;cole (repr&eacute;sentation additionnelle depuis le printemps 2026)",
+    "Participation aux spectacles de la chorale de l'&eacute;cole",
     ]
   - role: "Concerts Sistema NB"
     id: "CWS-OSW"
