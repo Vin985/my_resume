@@ -64,7 +64,7 @@ titles:
 education:
   title: Formation
   degrees:
-    - degree: Chorale de l'École St-Henri
+    - degree: Chorale de l'&Eacute;cole St-Henri
       start: 
         year: 2023
         month: 9
@@ -88,7 +88,7 @@ education:
         city: Moncton
         province: Nouveau-Brunswick
         country: Canada 
-    - degree: Aerial kids & Tweens - Intermediate
+    - degree: Aerial kids and Tweens - Intermediate
       title: Introduction to Hoop, pole and Hammock aerial arts
       start: 
         year: 2025
