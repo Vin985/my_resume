@@ -56,6 +56,15 @@ months_short: [
   "D&eacute;c.",
   ]
 
+profile:
+  title: Atouts et int&ecirc;rets
+  items: [
+    "Passionn&eacute;e par le monde des arts, en particulier la musique, la danse et le chant",
+    "Aime participer &agrave; tout type de spectacle et se produire sur sc&egravene"
+    "Bonne m&eacute;moire pour apprendre des textes et des paroles",
+    "Disciplin&eacute;e et attentive"
+  ]
+    
 
 # Education
 education:
@@ -168,8 +177,8 @@ job_experience:
       city: Moncton
       province: Nouveau-Brunswick
       country: Canada
-    details: ["Participation aux spectacles annuel de l'&eacute;cole",
-    "Participation aux spectacles de la chorale de l'&eacute;cole (repr&eacute;sentations additionnelles depuis le printemps 2026)",
+      details: ["Participation spontan&eacute;e au spectacle de talents de l'&eacute;cole",
+      "Mise en place d'un num&eacute;ro de chant et musique",
     ]
   - role: "Spectacles annuels de l'&Eacute;cole St-Henri"
     start:
@@ -232,10 +241,11 @@ job_experience:
 
     
 awards:
-  title: "Prix et r&ecompenses"
+  title: "Prix et r&eacute;compenses"
   items:
     - name: "2&egrave;me place du concours de chorales scolaires"
       provider: "Festival de musique du Grand Moncton"
+      type: award
       date: 2026
 
 
