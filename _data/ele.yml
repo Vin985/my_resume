@@ -1,0 +1,228 @@
+name: Éléonore Christin
+support_dark_mode: false
+fork: false
+
+objective: Artiste chant/danse
+
+# Sidebar
+contact:
+  email: sylvain.christin@gmail.com
+  # github: johndoe
+  # linkedin: johndoe
+  phone: (450) 880-0256
+  gitlab: 
+  twitter:
+  #website: https://vin985.github.io/my_resume/
+
+languages:
+  title: Langues
+  idioms:
+    - name: Fran&ccedil;ais
+      level: maternelle
+      code: fr
+    - name: Anglais
+      level: intermédiaire
+      code: gb
+
+months_long: [
+  "", # because indexings starts at 0 and operations are not allowed while indexing
+  "Janvier",
+  "F&eacute;vrier",
+  "Mars",
+  "Avril",
+  "Mai",
+  "Juin",
+  "Juillet",
+  "Ao&ucirc;t",
+  "Septembre",
+  "Octobre",
+  "Novembre",
+  "D&eactue;cembre"
+  ]
+
+months_short: [
+  "", # because indexings starts at 0 and operations are not allowed while indexing
+  "Janv.",
+  "F&eacute;v.",
+  "Mars",
+  "Avril",
+  "Mai",
+  "Juin",
+  "Juil.",
+  "Ao&ucirc;t",
+  "Sept.",
+  "Oct.",
+  "Nov.",
+  "D&eacute;c.",
+  ]
+
+titles:
+  scholarships: Bourses
+  awards: Prix
+
+# Education
+education:
+  title: Formation
+  degrees:
+    - degree: Chorale de l'École St-Henri
+      start: 
+        year: 2023
+        month: 9
+      end:
+        year: Pr&eacute;sent
+        month:
+      location:
+        name: &Eacute;cole St-Henri
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada 
+    - degree: Violonist - Mozart class
+      start: 
+        year: 2023
+        month: 9
+      end:
+        year: Pr&eacute;sent
+        month:
+      location:
+        name: Sistema NB
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada 
+    - degree: Aerial kids & Tweens - Intermediate
+      title: Introduction to Hoop, pole and Hammock aerial arts
+      start: 
+        year: 2025
+        month: 01
+      end:
+        year: 2026
+        month: 06
+      location:
+        name: Aerial Studio
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada
+    - degree: Danse contemporaine
+      title: 
+      start: 
+        year: 2024
+        month: 09
+      end:
+        year: 2025
+        month: 06
+      location:
+        name: DansEncorps
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada 
+    - degree: Camps d'été de th&eacute;&acirc;tre
+      title: 
+      start: 
+        year: 2024
+        month: 07
+      end:
+        year: 2024
+        month: 07
+      location:
+        name: Académie de Th&eacute;&acirc;tre du Capitol
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada 
+    - degree: Gymnastique
+      title: 
+      start: 
+        year: 2023
+        month: 9
+      end:
+        year: 2024
+        month: 07
+      location:
+        name: Beausejour Gymnos
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada 
+    - degree: Hip-hop
+      title: 
+      start: 
+        year: 2023
+        month: 01
+      end:
+        year: 2023
+        month: 06
+      location:
+        name: Dance creation
+        city: Moncton
+        province: Nouveau-Brunswick
+        country: Canada 
+   
+      
+   
+
+
+# Profile
+
+# Experience
+job_experience:
+  title: Exp&eacute;riences de scène
+  jobs:
+  - role: "Spectacles annuels de l'école St-Henri"
+    start:
+      month: 09
+      year: 2022
+    end:
+      month: 
+      year: Pr&eacute;sent
+    location:
+      name: "École St-Henri"
+      city: Moncton
+      province: Nouveau-Brunswick
+      country: Canada
+    details: ["Participation aux spectacles annuel de l'école",
+    "Participation aux spectacles de la chorale de l'école (représentation additionnelle depuis le printemps 2026)",
+    ]
+  - role: "Concerts Sistema NB"
+    id: "CWS-OSW"
+    tags: ["movement", "CWS"]
+    start:
+      month: 09
+      year: 2023
+    end:
+      month:
+      year: Pr&eacute;sent
+    location:
+      name: "Sistema NB"
+      city: Moncton
+      province: Nouveau-Brunswick
+      country: Canada
+    details: ["Participation aux concerts réguliers de Sistema NB en tant que violoniste (3 représentations par année)",
+              "Participation spéciale au concert du gala Sistema NB (2026)"]
+    start:
+      month: 6
+      year: 2023
+    end:
+      month: 
+      year: Present
+  - role: "45e r&eacute;cital DansEncorps"
+    start:
+      month: 6
+      year: 2025
+    location:
+      name: "Th&eacute;&acirc;tre Capitol"
+      city: Moncton
+      province: Nouveau-Brunswick
+      country: Canada 
+    details: ["Numéro de danse contemporaine au Th&eacute;&acirc;tre Capitol"]
+ - role: "Spectacle de danse Unity - Dance Creation"
+    start:
+      month: 6
+      year: 2023
+    location:
+      name: "Th&eacute;&acirc;tre Capitol"
+      city: Moncton
+      province: Nouveau-Brunswick
+      country: Canada 
+    details: ["Numéro de danse Hip-hop au Th&eacute;&acirc;tre Capitol"]
+  
+
+    
+
+
