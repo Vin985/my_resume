@@ -64,7 +64,7 @@ titles:
 education:
   title: Formation
   degrees:
-    - degree: Chorale de l'&Eacute;cole St-Henri
+    - degree: "Chorale de l'&Eacute;cole St-Henri"
       start: 
         year: 2023
         month: 9
@@ -72,7 +72,7 @@ education:
         year: Pr&eacute;sent
         month:
       location:
-        name: &Eacute;cole St-Henri
+        name: "&Eacute;cole St-Henri"
         city: Moncton
         province: Nouveau-Brunswick
         country: Canada 
@@ -123,7 +123,7 @@ education:
         year: 2024
         month: 07
       location:
-        name: Académie de Th&eacute;&acirc;tre du Capitol
+        name: "Acad&eacute;mie de Th&eacute;&acirc;tre du Capitol"
         city: Moncton
         province: Nouveau-Brunswick
         country: Canada 
