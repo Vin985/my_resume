@@ -159,7 +159,7 @@ education:
 job_experience:
   title: Exp&eacute;riences de scène
   jobs:
-   - role: "Spectacle des talents de l'&Eacute;cole St-Henri"
+  - role: "Spectacle des talents de l'&Eacute;cole St-Henri"
     start:
       month: 05
       year: 2026
