@@ -137,7 +137,7 @@ education:
         city: Moncton
         province: Nouveau-Brunswick
         country: Canada 
-    - degree: Hip-hop
+    - degree: Danse Hip-hop
       title: 
       start: 
         year: 2023
@@ -159,7 +159,19 @@ education:
 job_experience:
   title: Exp&eacute;riences de scène
   jobs:
-  - role: "Spectacles annuels de l'&eacute;cole St-Henri"
+   - role: "Spectacle des talents de l'&Eacute;cole St-Henri"
+    start:
+      month: 05
+      year: 2026
+    location:
+      name: "École St-Henri"
+      city: Moncton
+      province: Nouveau-Brunswick
+      country: Canada
+    details: ["Participation aux spectacles annuel de l'&eacute;cole",
+    "Participation aux spectacles de la chorale de l'&eacute;cole (repr&eacute;sentations additionnelles depuis le printemps 2026)",
+    ]
+  - role: "Spectacles annuels de l'&Eacute;cole St-Henri"
     start:
       month: 09
       year: 2022
@@ -195,7 +207,7 @@ job_experience:
       year: 2023
     end:
       month: 
-      year: Present
+      year: Pr&eacute;sent
   - role: "45e r&eacute;cital DansEncorps"
     start:
       month: 6
@@ -219,5 +231,11 @@ job_experience:
   
 
     
+awards:
+  title: "Prix et r&ecompenses"
+  items:
+    - name: "2&egrave;me place du concours de chorales scolaires"
+      provider: "Festival de musique du Grand Moncton"
+      date: 2026
 
 

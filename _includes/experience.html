@@ -44,8 +44,10 @@
                 {{data.months_long[job.start.month]}}
                 {%- endif -%}
                 {% endif %}
-                {{job.start.year}} -
+                {{job.start.year}}
                 {%endif%}
+                {%- if job.end -%}
+                 - 
                 {% if site.use_months and job.end.month %}
                 {%- if site.use_short_months -%}
                 {{data.months_short[job.end.month]}}
@@ -54,6 +56,7 @@
                 {% endif %}
                 {% endif %}
                 {{job.end.year}}
+                {%endif%}
             </div>
         </div>
         <!--
